@@ -3,7 +3,9 @@
 A Information Technology student who is interested in Flutter Development
 ### Tools:
 
-<img align="bottom" width= "17%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
 
 <img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=joseph&show_icons=true&theme=radical"/>
 
